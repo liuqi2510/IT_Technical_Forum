@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 7, 2017, 2:49:38 PM
+    Author     : lily
+*/
+/*---------------------------------------login.css--------------------------------------------*/
+.block_width{
+    /*    max-width: 500px;
+        margin: auto;
+        padding: 50px;*/
+    max-width: 31.25em;
+    margin: auto;
+    padding: 4em 2em 0 2em;    
+    min-width: 25em;
+}
+.block_width .panel-body{
+    padding: 25px;
+}
+.block_width .alert-danger{
+    display: none;
+}
+.drak_a{
+    color: #808080;
+}
+.drak_a:hover{
+    color: #000000;
+}
+.block_width a:hover{
+    text-decoration: none;    
+}
+.logo img{
+    width: 50px;
+    height: 50px;
+    margin-right: 0.5em;
+}
+.logo strong{
+    font-size: 1.5em;
+}
+
+/*---------------------------------------register.css--------------------------------------------*/
+.layout-top{
+    background-color: #24292e;    
+    padding-top: 20px;
+}
+.navbar-inverse{
+    background-color: #24292e;
+    border-color: #24292e;
+}
+.logo a{
+    padding-top: 0px; 
+}
